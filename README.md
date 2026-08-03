@@ -6,10 +6,10 @@ and Computer Vision.
 
 ## Current focus
 
-- Developing a computer vision pipeline for individual sea turtle
-  identification from facial images.
-- Exploring transfer learning, robust model evaluation, and visual
-  recognition under limited and imbalanced data.
+- Developing a reproducible computer vision pipeline for sea turtle face
+  detection and localization from competition images.
+- Working on dataset auditing, annotation validation, leakage-aware splitting,
+  and robust evaluation for object detection.
 - Previously developed a LightGBM-based recommender system for air traffic
   sector configuration planning at CRIDA/ENAIRE.
 
@@ -22,9 +22,9 @@ and Computer Vision.
 
 ## Featured projects
 
-- **[Sea Turtle Identification](https://github.com/davolio03/SEA_TURTLE_FACE_DETECTION)**  
-  Computer vision pipeline for identifying individual sea turtles from
-  distinctive facial patterns.
+- **[Sea Turtle Face Detection](https://github.com/davolio03/SEA_TURTLE_FACE_DETECTION)**  
+  Computer vision pipeline for locating sea turtle faces using normalized
+  bounding-box annotations, based on a Zindi challenge.
 
 - **[Satellite Imagery Recognition](https://github.com/davolio03/Vision-por-computador)**  
   Deep learning and transfer learning experiments on high-resolution
