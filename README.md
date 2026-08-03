@@ -1,4 +1,4 @@
-# Hi, I'm David Sulleiro 👋
+# Hi, I'm David 👋
 
 Mathematics and Computer Science graduate with a Master's Degree in
 Artificial Intelligence, focused on applied Machine Learning, Data Science,
