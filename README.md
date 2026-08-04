@@ -24,7 +24,7 @@ and Computer Vision.
 
 - **[Sea Turtle Face Detection](https://github.com/davolio03/SEA_TURTLE_FACE_DETECTION)**  
   Computer vision pipeline for localizing sea turtle faces using normalized
-  bounding-box annotations.
+  bounding-box annotations, based on a Zindi challenge.
 
 - **[Satellite Imagery Recognition](https://github.com/davolio03/Vision-por-computador)**  
   Deep learning and transfer learning experiments on high-resolution
