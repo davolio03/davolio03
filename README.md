@@ -1,64 +1,25 @@
 # Hi, I'm David 👋
 
-Mathematics and Computer Science graduate with a Master's Degree in
-Artificial Intelligence, focused on applied Machine Learning, Data Science,
-and Computer Vision.
+I'm a Mathematics and Computer Science graduate with a Master's Degree in Artificial Intelligence.
 
-## Current focus
+I enjoy understanding complex problems, turning them into something measurable, and experimenting with different ways of solving them with data and machine learning.
 
-- Developing a computer vision pipeline for sea turtle face detection and
-  localization based on a Zindi challenge.
-- Working on dataset validation, leakage-aware splitting, bounding-box
-  analysis, and robust model evaluation.
-- Previously developed a LightGBM-based recommender system for air traffic
-  sector configuration planning at CRIDA/ENAIRE.
+## What I'm interested in
 
-## Professional experience
+- Machine Learning and Data Science
+- Computer Vision and multimodal AI
+- Deep Learning and representation learning
+- AI agents and LLM-based systems
+- AI applied to physical and operational systems
+- Model evaluation, uncertainty, and reliable decision-making
+- Keeping up with new research, tools, and ideas in AI
 
-- **CRIDA / ENAIRE** — Developed a machine learning recommender system
-  based on operational air traffic data and confidence-based decision rules.
-- **Accenture Data & AI** — Worked on data analysis, Power BI dashboards,
-  Azure Synapse pipelines, and process automation.
+## Things I enjoy building
 
-## Featured projects
+I like working on projects that let me learn by doing — from computer vision and predictive modelling to small tools that automate or improve things in my everyday life.
 
-- **[Sea Turtle Face Detection](https://github.com/davolio03/SEA_TURTLE_FACE_DETECTION)**  
-  Computer vision pipeline for localizing sea turtle faces using normalized
-  bounding-box annotations, based on a Zindi challenge.
+I'm especially interested in projects where the model is only one part of the problem and data quality, evaluation, constraints, and system design matter just as much.
 
-- **[Satellite Imagery Recognition](https://github.com/davolio03/Vision-por-computador)**  
-  Deep learning and transfer learning experiments on high-resolution
-  satellite imagery.
+## Find me
 
-- **[GenAI Videogame](https://github.com/davolio03/GenAIVideogame)**  
-  AI-generated mystery game developed with Python, Ren'Py, and an external
-  LLM API.
-
-## Technologies
-
-Python · SQL · PyTorch · TensorFlow/Keras · OpenCV · Scikit-learn ·
-LightGBM · Pandas · NumPy · Git
-
-## Interests
-
-Machine Learning · Data Science · Computer Vision · Applied AI
-
-## Contact
-
-- [LinkedIn](https://www.linkedin.com/in/davidsulleiroalbi/)
-- Email: davidsacp@gmail.com
-
-<!--
-**davolio03/davolio03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[LinkedIn](https://www.linkedin.com/in/davidsulleiroalbi/)
