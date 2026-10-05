@@ -1,24 +1,22 @@
 # Hi, I'm David 👋
 
-I'm a Mathematics and Computer Science graduate with a Master's Degree in Artificial Intelligence.
+I have a background in Mathematics, Computer Science and Artificial Intelligence.
 
-I enjoy understanding complex problems, turning them into something measurable, and experimenting with different ways of solving them with data and machine learning.
+I'm interested in how machine learning can be used to understand complex systems, make better decisions, and solve real-world problems.
 
 ## What I'm interested in
 
 - Machine Learning and Data Science
 - Computer Vision and multimodal AI
-- Deep Learning and representation learning
 - AI agents and LLM-based systems
 - AI applied to physical and operational systems
 - Model evaluation, uncertainty, and reliable decision-making
-- Keeping up with new research, tools, and ideas in AI
 
 ## Things I enjoy building
 
-I like working on projects that let me learn by doing — from computer vision and predictive modelling to small tools that automate or improve things in my everyday life.
+I like learning by building — from computer vision and predictive modelling projects to small tools that automate or improve things in everyday life.
 
-I'm especially interested in projects where the model is only one part of the problem and data quality, evaluation, constraints, and system design matter just as much.
+I'm especially interested in problems where the model is only one part of the solution and data quality, evaluation, constraints, and system design matter just as much.
 
 ## Find me
 
