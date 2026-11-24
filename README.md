@@ -1,4 +1,4 @@
-# Hi, I'm David 👋
+# Hi, I'm David
 
 I have a background in Mathematics, Computer Science and Artificial Intelligence.
 
